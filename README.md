@@ -1,5 +1,5 @@
 # Cam-Design
-Constucts s-v-a diagram using various combinations of rise and fall functions and plots the cam profile.
+Constructs s-v-a diagram using various combinations of rise and fall functions and plots the cam profile.
 
 ## Features
 There are nine different rise and fall follower functions available.
