@@ -14,7 +14,7 @@ There are nine different rise and fall follower functions available.
 9. Dwell
 
 The main file (cam_functions()) contains the program to take necessary user inputs and returns maximum values of Velocity and Acceleration. It also contains the sub-functions to plot s-v-a diagram and cam profile.
-#### Note : max velocity and max acceleration are approximate values.s
+#### Note : max velocity and max acceleration are approximate values
 
 #### There are lot of sophisticated expensive commercial softwares in the industry, which can design cams for modern engineering applications. However, for academic purposes it is not necessary because of the fact that students learn only basics of cam design. 
 
