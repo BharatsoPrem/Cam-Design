@@ -52,7 +52,7 @@ Contributions are always welcome. For better understanding read below.
 #### 2. Other files have been named after their functions. To illustrate: shm_rise.py contains the function shm_rise() which returns the values of displacements, velocities and accelerations according to the simple harmonic rise equations.   
 
 ## Roadmap
-#### This project only contains the function to plot cam profile of 'knife edge follower with no offset'. Further additions of 'Flat-faced follower with and without offset','Roller follower with and without offset' as a contribution would be appreciated.
+#### Interested developers can create GUI for this project.
 
 ## Support
 I'm available at mailtotransact@gmail.com
